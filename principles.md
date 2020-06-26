@@ -10,8 +10,6 @@ Cloud costs are based on cloud use, which comes with a straightforward correlati
 ## FinOps Reports Should Be Accessible and Timely
 In the world of per-second compute resources and automated deployments, monthly or quarterly reporting isn’t good enough. Real-time decision making is about getting data, such as spend changes or anomaly alerts, quickly to the people who deploy cloud resources. Real-time decisions enable these people to create a fast feedback loop where they can continuously improve their spending patterns, make intelligent decisions, and improve efficiency.
 
-## Focus relentlessly on clean data to drive decisions. FinOps decisions are based on fully loaded and properly allocated costs. These are the true costs for operating in the cloud. These costs should be amortized, to reflect the actual discounted rates a company is paying for cloud resources; equitably factor in shared costs; and be mapped to the business’s organizational structure. Without these adjustments to your spending data, your teams will make decisions based on bad data and hamstring value creation.
-
 ## A Centralized Team Drives FinOps
 Cultural change works best with a flag bearer. A central FinOps function drives best practices into the organization through education, standardization, and cheerleading. Maximize the results from rate optimization efforts by centralizing them, which gives your teams on the edge the freedom to maximize the results from usage optimization. The most successful companies decentralize using less, and centralize paying less.
 

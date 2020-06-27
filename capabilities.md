@@ -1,6 +1,6 @@
 # FinOps Capabilities
 
-These are what the FinOps team does in practice.
+These are what the FinOps team does in practice. This list is maintained under the TAC's Technical Charter and is an input for programs like the FinOps Certified Platform and FinOps Certified Service Provider.
 
 ## Understand Fully Loaded Costs
 * Map spending data to the business
@@ -19,12 +19,10 @@ These are what the FinOps team does in practice.
 * Create Scorecards, metrics & KPI’s
 * Benchmark internally and against “industry” peers
 
-
 ## Optimize Usage
 * Rightsizing
 * Workload Management
 * Automation
-
 
 ## Optimize Rates
 * Balance use of various rate types
@@ -33,7 +31,6 @@ These are what the FinOps team does in practice.
 * Custom and Volume Discounts / Sustained Usage
 * Utilize Marketplace
 * Licensing Optimization
-
 
 ## Align Plans to the Business
 * Mini-Business Cases

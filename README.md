@@ -1,1 +1,1 @@
-This repository holds the canonical definitions, lifecycle, capabilities, etc for FinOps. Anyone can contribute to it, but only the Technical Advisory Council can merge accepted changes.
+This repository holds the canonical definitions, lifecycle, capabilities, etc for FinOps. Anyone can contribute to it, but only the Technical Advisory Council can merge accepted changes. Terms of contribution are defined in the TAC's [Technical Charter](https://github.com/finopsfoundation/tac/blob/master/charter.md).
